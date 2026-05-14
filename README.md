@@ -15,9 +15,11 @@ Interactive dashboard built using Power BI to analyze pharmacy inventory perform
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard Overview](Dashboard-Overview.png)
 
-![Dashboard Analysis](Dashboard Analysis.png)
+![Dashboard Analysis](Dashboard-Analysis.png)
+
+![Dashboard What-IF-Analysis](Dashboard-What-IF-Analysis.png)
 
 ---
 
@@ -30,4 +32,4 @@ Interactive dashboard built using Power BI to analyze pharmacy inventory perform
 ---
 
 ## Live Dashboard
-https://app.powerbi.com/view?r=YOUR-LINK
+https://app.powerbi.com/links/D1FU5CaTQI?ctid=aec2484c-15e6-4c51-84d7-830de7d04ac7&pbi_source=linkShare&bookmarkGuid=f86bf341-dca7-4d10-9210-f97b0565bc03
