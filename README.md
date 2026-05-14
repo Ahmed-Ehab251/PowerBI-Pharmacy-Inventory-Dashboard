@@ -1,4 +1,4 @@
-<h1 align="center">💊 Pharmacy Inventory Dashboard | Power BI</h1>
+<h1 align="center">📊 Pharmacy Inventory Dashboard | Power BI</h1>
 
 <p align="center">
   Interactive Power BI Dashboard for Pharmacy Inventory & Stock Management Analytics
