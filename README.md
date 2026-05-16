@@ -61,7 +61,7 @@ Interactive dashboard built using Power BI to analyze pharmacy inventory perform
 <h2>🌐 Live Dashboard</h2>
 
 <p align="center">
-  <a href="https://app.powerbi.com/links/En70eC0C8s?ctid=aec2484c-15e6-4c51-84d7-830de7d04ac7&pbi_source=linkShare&bookmarkGuid=1a19e9be-3f6f-4004-bc2f-a78cf2d7499d"_blank">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNTZhZmJlOGYtYzRkNS00NGNmLWJhOGUtZDUzOWE0MzU5NTc1IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9"_blank">
     <img src="https://img.shields.io/badge/View-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   </a>
 </p>
